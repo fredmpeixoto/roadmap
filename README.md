@@ -85,6 +85,11 @@ Esses são os frameworks mais ultilizados
 - Roadmap Sh - https://roadmap.sh/
 
 
+### Próximos Passos
+
+- LinkedIn - Melhorando sua marca profissional em alguns cliques https://www.youtube.com/watch?v=LVjWDXhwzzs
+- Linguagens (C#, Java, Python) 
+- Database NoSQL (MongoDB) 
 
 
 
