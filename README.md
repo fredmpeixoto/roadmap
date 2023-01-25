@@ -1,11 +1,8 @@
 
-# ROADMAP
-
-Esse repositorio contem um passo a passo com as URL's sugeridas para iniciar no mundo da programação.
+# ROADMAP - Esse repositório contém um passo a passo com as URLs sugeridas para iniciar no mundo da programação.
 
 
-Vou deixar ele publico para que outras pessoas enviem ```PULL REQUEST``` para esse repositorio atualizando o mesmo.
-
+Vou deixar ele público para que outras pessoas enviem ```PULL REQUEST``` para esse repositório atualizando o mesmo.
 
 
 
@@ -40,9 +37,9 @@ Code Challenge
 
 - https://www.codecademy.com/learn/introduction-to-javascript
 
-### Escolha um Frontend Framework
+### Escolha um Front End Framework
 
-Esses são os frameworks mais ultilizados 
+Esses são os frameworks mais utilizados 
 
 - https://angular.io/start
 - https://www.freecodecamp.org/learn/front-end-development-libraries/react/
@@ -57,7 +54,7 @@ Esses são os frameworks mais ultilizados
 
 ### GIT
 
-- Instalar o gitbash https://git-scm.com/downloads 
+- Instalar o git bash https://git-scm.com/downloads 
 - Seguir https://www.w3schools.com/git/git_getstarted.asp?remote=github
 - Criar um GitHub Page https://docs.github.com/pt/pages/getting-started-with-github-pages 
 
@@ -90,13 +87,3 @@ Esses são os frameworks mais ultilizados
 - LinkedIn - Melhorando sua marca profissional em alguns cliques https://www.youtube.com/watch?v=LVjWDXhwzzs
 - Linguagens (C#, Java, Python) 
 - Database NoSQL (MongoDB) 
-
-
-
-
-
-
-
-
-
-
