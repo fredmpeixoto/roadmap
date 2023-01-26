@@ -40,6 +40,8 @@ Estude programação movendo os blocos de código com o mouse
 <div id='logicProgramation'/>
 ### Desafíos de Lógica 
 
+Esses sites são ultilizados para treinar desafios de códigos, esses desafíos são muito ultilizados em entrevistas. Volte nesse tópico após estudar javascript.
+
 Code Challenge 
 - https://www.codewars.com/
 - https://www.hackerrank.com
@@ -47,40 +49,47 @@ Code Challenge
 <div id='htmlCss'/>
 ### HTML / CSS
 
+HTML e CSS são a base de uma pagina Web com o HTML é aplicado a estrutura e o CSS os estilos graficos.
 - https://www.codecademy.com/catalog/language/html-css
 
 <div id='javascript'/>
 ### JAVASCRIPT
 
+Esse tópico é o mais importante, pois com Javascript é possível executar ações em sua página e também vai ser a base para a linguagem backend escolhida (NodeJS)
 - https://www.codecademy.com/learn/introduction-to-javascript
 
 <div id='frontendFramework'/>
 ### Escolha um Front End Framework
 
-Esses são os frameworks mais utilizados 
+Esses são os frameworks mais utilizados do mercado.
 
-- https://angular.io/start
-- https://www.freecodecamp.org/learn/front-end-development-libraries/react/
+- Angular - https://angular.io/start
+- React - https://www.freecodecamp.org/learn/front-end-development-libraries/react/
 
 <div id='nodejs'/>
-### Framework backend - NodeJS
+### Backend - NodeJS
 
+NodeJS é um runtime que permite executar códigos Javascript fora do browser. É utilizado para criar o código backend.
 - https://www.udemy.com/course/node-js-api-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XG5.XfsKhpuWQtuGHbwsIw&utm_medium=udemyads&utm_source=aff-campaign
 
 <div id='sql'/>
 ### SQL 
 
+SQL é a linguagem mais usadas por famosos bancos de dados como MySQL, Postgre e SQL Server. 
 - https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS
 
 <div id='git'/>
 ### GIT
 
+O Git é usada para versionar seu código, ou seja gravar as alterações e evolução do mesmo. Como o git é possivel ter um histórico do progresso do código.
 - Instalar o git bash https://git-scm.com/downloads 
 - Seguir https://www.w3schools.com/git/git_getstarted.asp?remote=github
 - Criar um GitHub Page https://docs.github.com/pt/pages/getting-started-with-github-pages 
 
 <div id='mostlyUsedTools'/>
 ### Ferramentas mais usada
+
+Visual Studio Code é uma IDE que permite criar os códigos de forma acessível e auxilia na criação. Postman é usado para testar as request a API e verificar o retorno do mesmo, e git será o seu sistema de controle de versão de código.
 
 - Visual Studio Code https://code.visualstudio.com/
 - Postman https://www.postman.com/
@@ -89,7 +98,7 @@ Esses são os frameworks mais utilizados
 <div id='cloudComputing'/>
 ### Cloud Computing	
 
-** Não tenho link de Cloud por enquanto
+** Não tenho link de Cloud por enquanto :/
 
 - AWS
 - Azure
@@ -98,11 +107,13 @@ Esses são os frameworks mais utilizados
 <div id='interviewsPreparation'/>
 ### Preparatório para entrevistas
 
+Com esse site é possível verificar quais as principais perguntas em entrevistas e é possível treinar s mesmas.
 - https://grow.google/certificates/interview-warmup/
 
 <div id='roadmaps'/>
 ### Roadmaps
 
+Alguns Roadmaps prontos.
 - Google Tech Guide - https://techdevguide.withgoogle.com/
 - Roadmap Sh - https://roadmap.sh/
 
@@ -110,6 +121,7 @@ Esses são os frameworks mais utilizados
 <div id='nextsSteps'/>
 ### Próximos Passos
 
+Continue com os progressos...
 - LinkedIn - Melhorando sua marca profissional em alguns cliques https://www.youtube.com/watch?v=LVjWDXhwzzs
 - Linguagens (C#, Java, Python) 
 - Database NoSQL (MongoDB) 
